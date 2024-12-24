@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input{
+    width: 90%;
+    height: 3rem;
+    border-radius: 20px;
+
+    position: relative;
+    left: 3rem;
+    border: 5px solid plum;
+    top: 1rem;
+    
+}
